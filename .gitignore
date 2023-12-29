@@ -1,0 +1,16 @@
+# OSX
+#
+.DS_Store
+
+# env
+#
+# Not store the env text in the git repo.
+.env
+.env.development
+.env.production
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
